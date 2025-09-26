@@ -24,3 +24,7 @@ Open Git Bash and MDT Shell • Git Bash (on Windows): • Git Bash allows you t
 Run Code on Edge TPU • Once you have your files on the board, you can start running the code. • Make sure any dependencies (like scikit-learn, numpy, etc.) are installed on the board. • sudo apt-get install python3-numpy python3-sklearn • Once everything is set up, navigate to your file directory on the Dev Board: • cd /home/board_user/ • Run your Python script: • python3 your_script.py • The Edge TPU will accelerate the inference process, improving the efficiency of your model.
 Access the Board’s Files (Optional) • Git Access: If you want to manage files using Git, you can clone repositories directly onto the Dev Board by running: • git clone <repository_url>
 References and Documentation • Official Coral Dev Board Documentation: • Coral Dev Board Get Started Guide • https://coral.ai/docs/dev-board/get-started/#update-mendel • Mendel Development Tool Documentation: • MDT Documentation
+
+Description of proposed work
+=
+
