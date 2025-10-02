@@ -3,23 +3,23 @@ AAPN-Tiny: A Compact Edge-Deployable Adaptive Attention Pyramid Architecture for
 Manuscript ID: IEEE LAT AM T Submission ID: Paper ID: 9716
 
 
-Authors:
-•	Rayappa David Amar Raj
-•	Rama Muni Reddy Yanamala
-•	Archana Pallakonda
-•	Kanasottu Anil Naik
+Authors: <br>
+•	Rayappa David Amar Raj  <br>
+•	Rama Muni Reddy Yanamala  <br>
+•	Archana Pallakonda <br>
+•	Kanasottu Anil Naik <br>
 
 Included Scripts
 =
-This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
+This repository contains all scripts required to reproduce the simulation and numerical results presented in the article. <br>
 
 
 
 Requirements:
 =
-•	Python / Jupyter notebook
-•	Corel dev Edge TPU board
-•	gitbash terminal
+•	Python / Jupyter notebook <br>
+•	Corel dev Edge TPU board <br>
+•	gitbash terminal <br>
 
 
 Hardware Setup and Implementation steps:
