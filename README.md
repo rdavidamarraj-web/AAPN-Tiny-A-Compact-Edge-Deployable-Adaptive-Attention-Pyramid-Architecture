@@ -15,16 +15,12 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 | Source Code  | Related Figure/Table  | Description |
 |:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
+| aappsolar2c.ipynb   | Figs. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11 | Interactive python notebook having python code developed for the AAPN model 
+architecture. This code classifies **2-class solar faults** |
+| aappsolar8c.ipynb   |  Fig. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11  |   Interactive python notebook having python code developed for the AAPN model architecture. This code classifies **8-class solar faults** |
+| aapp11csolar.ipynb   | Fig. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11 |    Interactive python notebook having python code developed for the AAPN model architecture. This code classifies **11-class solar faults** |
 
 
-| Source Code   | Related Figure/Table |	Description |
-| aappsolar2c.ipynb | Figs. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11 |	Interactive python notebook having python code developed for the AAPN model 
-architecture. This code classifies 2-class solar faults |
-aappsolar8c.ipynb
-Fig. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11	Interactive python notebook having python code developed for the AAPN model architecture. This code classifies 8-class solar faults
 aapp11csolar.ipynb
 Fig. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11	Interactive python notebook having python code developed for the AAPN model architecture. This code classifies 11-class solar faults
 aappsolar12.ipynb
