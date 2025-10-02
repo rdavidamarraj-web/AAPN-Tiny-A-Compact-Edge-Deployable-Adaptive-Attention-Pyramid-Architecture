@@ -13,7 +13,7 @@ Included Scripts
 =
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article. <br>
 
-| Left |  Center  | Right |
+| Source Code  | Related Figure/Table  | Description |
 |:-----|:--------:|------:|
 | L0   | **bold** | $1600 |
 | L1   |  `code`  |   $12 |
