@@ -15,26 +15,16 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 | Source Code  | Related Figure/Table  | Description |
 |:-----|:--------:|------:|
-| aappsolar2c.ipynb   | Figs. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11 |     Interactive python notebook having python code developed for the AAPN model 
-architecture. This code classifies **2-class solar faults** |
+| aappsolar2c.ipynb   | Figs. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11 |     Interactive python notebook having python code developed for the AAPN model architecture. This code classifies **2-class solar faults** |
 | aappsolar8c.ipynb   |  Fig. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11  |   Interactive python notebook having python code developed for the AAPN model architecture. This code classifies **8-class solar faults** |
 | aapp11csolar.ipynb   | Fig. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11 |    Interactive python notebook having python code developed for the AAPN model architecture. This code classifies **11-class solar faults** |
 |aappsolar12.ipynb|Fig. 4,5,6 shows the architecture and results are shown in Figs. 8, 9, 10, 11|Interactive python notebook having python code developed for the AAPN model architecture. This code classifies 12-class solar faults|
 |AAPP_det_12c_x1.ipynb|Table-111|Ablation study: Source code having 2 enhanced blocks and 2 dense layers in SEA block|
 |AAPP_det_12c_x2.ipynb|Table-111|Ablation study: Source code having 1 enhanced blocks and 2 dense layers in SEA block|
-|:-----|Table-111|------:|
-|:-----|Table-111|------:|
+|AAPP_det_12c_xy1.ipynb|Table-111|Ablation study: Source code having 3 enhanced blocks and 1 dense layers in SEA block|
+|AAPP_det_12c.ipynb|Table-111|Ablation study: Source code having 3 enhanced blocks and 2 dense layers in SEA block|
+|AAPP_det_12c_xy2.ipynb|Table-111|Ablation study: Source code having 3 enhanced blocks and 3 dense layers in SEA block|
 
-
-
-
-
-AAPP_det_12c_xy1.ipynb
-Table-111	Ablation study: Source code having 3 enhanced blocks and 1 dense layers in SEA block
-AAPP_det_12c.ipynb
-Table-111	Ablation study: Source code having 3 enhanced blocks and 2 dense layers in SEA block
-AAPP_det_12c_xy2.ipynb
-Table-111	Ablation study: Source code having 3 enhanced blocks and 3 dense layers in SEA block
 
 
 Requirements:
