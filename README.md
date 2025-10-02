@@ -1,5 +1,27 @@
-AAPN-Tiny: A Compact Edge-Deployable Adaptive Attention Pyramid Architecture
+AAPN-Tiny: A Compact Edge-Deployable Adaptive Attention Pyramid Architecture for Multi-Class Fault Diagnosis in Solar Photovoltaic Modules
 =
+Manuscript ID: IEEE LAT AM T Submission ID: Paper ID: 9716
+
+
+Authors:
+•	Rayappa David Amar Raj
+•	Rama Muni Reddy Yanamala
+•	Archana Pallakonda
+•	Kanasottu Anil Naik
+
+Included Scripts
+=
+This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
+
+
+
+Requirements:
+=
+•	Python / Jupyter notebook
+•	Corel dev Edge TPU board
+•	gitbash terminal
+
+
 Hardware Setup and Implementation steps:
 =
 To successfully run code on the Edge TPU Corel Dev Board, you need to follow several steps. Here’s a comprehensive guide to get your code up and running:
